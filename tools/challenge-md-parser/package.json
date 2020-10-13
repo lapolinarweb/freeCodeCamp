@@ -21,6 +21,6 @@
     "remark-stringify": "^6.0.4",
     "to-vfile": "^6.1.0",
     "unified": "^7.1.0",
-    "unist-util-visit": "^1.4.1"
+    "unist-util-visit": "^2.0.3"
   }
 }
